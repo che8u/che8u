@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hey, I'm @che8u
+
+I'm the author of [che8u.org](https://www.che8u.org).
+
+I enjoy low-level design and networking. I'd tell you more about myself but "DRY" asked me not to ;)
+
+You can read more about me on my website, let's get in touch if you want to work on something together.
 
 <!--
 **che8u/che8u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

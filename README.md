@@ -1,6 +1,6 @@
 # Hey, I'm @che8u
 
-I'm the author of [che8u.org](https://www.che8u.org).
+I'm the author of [che8u.org](https://che8u.org).
 
 I enjoy low-level design and networking. I'd tell you more about myself but "DRY" asked me not to ;)
 
